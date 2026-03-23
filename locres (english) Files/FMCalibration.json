@@ -72,8 +72,10 @@
   "CalibrationVM": {
     "ErrorTitle": "Something Went Wrong",
     "ErrorBodyVideoMash": "Sorry, we’re detecting too many button presses.\n\nOnly press the button once for each bounce.",
+    "ErrorBodyGemVideoMash": "Sorry, we’re detecting too many button presses.\n\nOnly press the button once for each note that enters the hit zone outline.",
     "ErrorBodyAudioMash": "Sorry, we’re detecting too many button presses.\n\nOnly press the button once per drum hit.",
     "ErrorBodyAudioWindow": "Sorry, we’re having trouble with the consistency of your button presses.\n\nTry pressing down and holding on the drum sound, then release halfway to the next drum sound, or a short time later.",
-    "ErrorBodyVideoWindow": "Sorry, we’re having trouble with the consistency of your button presses.\n\nTry pressing down and holding when the ball hits the bar, then release when the ball is at the top."
+    "ErrorBodyVideoWindow": "Sorry, we’re having trouble with the consistency of your button presses.\n\nTry pressing down and holding when the ball hits the bar, then release when the ball is at the top.",
+    "ErrorBodyGemVideoWindow": "Sorry, we’re having trouble with the consistency of your button presses.\n\nTry pressing down and holding when the note is centered in the hit zone outline, then release some time later."
   }
 }

@@ -13,6 +13,6 @@
     "3FA13F004C7D52EF537B8CACCC10040D": "Place Extra Loop",
     "36365ECD4993EA71955323A9FFC4B5D4": "Stop Loop",
     "FA9AF9FE41984A922675B2AF9CF30700": "Touch Zone Size",
-    "60E1EB7E4A2C987877789E9AC8989279": "Updating IMC presence... Emitter=\"{emitter}\"  -  Is Jammer=\"{bool}\"   -- Should Have Controls = {ChangeResult}"
+    "60E1EB7E4A2C987877789E9AC8989279": "Updating IMC presence... Deck=\"{deck}\"  -  Is Jammer=\"{bool}\"   -- Should Have Controls = {ChangeResult}"
   }
 }

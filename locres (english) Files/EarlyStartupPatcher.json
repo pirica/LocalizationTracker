@@ -98,16 +98,17 @@
     "FortniteEarlyStartupPatcher.TotalDownloadPercent": " / {TotalBytes}",
     "EarlyStartupPatcher.NotificationsPermissionModalTitle.Alt": "ALLOW NOTIFICATIONS",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton_iOS": "ALLOW NOTIFICATIONS",
+    "FortniteEarlyStartupPatcher.EnableNotificationsOnly_Button": "ALLOW NOTIFICATIONS",
     "EarlyStartupPatcher.DefaultErrorBody": "An Unknown Error has occured. Please try again later.",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton": "Continue",
     "EarlyStartupPatcher.DownloadingFiles": "DOWNLOADING",
     "FortniteEarlyStartupPatcher.DoNotQuitApp": "Don't leave",
     "FortniteEarlyStartupPatcher.DoNotQuitApp_Button": "ENABLE BACKGROUND DOWNLOADS",
     "EarlyStartupPatcher.DefaultErrorTitle": "Error",
-    "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton.Alt": "GO TO SETTING",
-    "EarlyStartupPatcher.NotificationsPermissionModalTitle": "Get notified",
+    "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton.Alt": "GO TO SETTINGS",
     "EarlyStartupPatcher.NotificationsPermissionModalTitle.Android": "Get notified",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Android": "Get notified about friend and party invites, new seasons, limited time events, announcements and promotions. Configure these at any time in Fortnite Settings.",
+    "FortniteEarlyStartupPatcher.BackgroundDownloadNeedsNotifications": "Get notified when your download finishes, about party invites, and more.",
     "EarlyStartupPatcher.BackgroundAppRefreshSettingsModal_ActionButton": "Go to Settings",
     "EarlyStartupPatcher.InstallingFiles": "INSTALLING",
     "EarlyStartupPatcher.Initializing": "Initializing",
@@ -122,7 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "Update Size: {PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "We’ll let you know when you need to come back and finish installation.\n\nPlus, get notified about party invites, game updates, and more.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "We’ll let you know when you need to come back and finish installation.\n\nPlus, get notified about party invites, game updates, and more.",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "You can leave the app while it's downloading, and we'll notify you when it's time to come back.\n\nYou will then need to keep Fortnite open on your screen to install after the download is complete.",
-    "EarlyStartupPatcher.NotificationsPermissionModalBody": "Your Fortnite download is in progress, but it doesn't mean you have to wait around.\n\nTurn on notifications to know when your download has completed."
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "You can leave the app while it's downloading, and we'll notify you when it's time to come back.\n\nYou will then need to keep Fortnite open on your screen to install after the download is complete."
   }
 }
