@@ -1,0 +1,16 @@
+{
+  "OnlineSubsystem": {
+    "FailedToRetrievePurchases": "An error has occurred while querying purchases; purchased content may be temporarily unavailable.",
+    "FailedToRetrievePurchasesWithCode": "Unable to verify purchase with {ServiceName} services; purchased content may be temporarily unavailable. {ServiceName} Error Code: {ErrorCode}"
+  },
+  "OnlineSubsystemGDK": {
+    "PurchaseFailed": "We were unable to complete your purchase at this time.",
+    "PurchaseFailedStart": "We were unable to initiate your purchase at this time.",
+    "OnlineServiceName": "Xbox Live",
+    "SocialPlatformName": "Xbox Live",
+    "PurchaseCancelled": "Your purchase was cancelled."
+  },
+  "OnlineSubsystemLive": {
+    "RedeemCodeFailed": "Unable to redeem code."
+  }
+}
